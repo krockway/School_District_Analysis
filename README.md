@@ -32,26 +32,32 @@ For all analysis, the amount of change was minimal. Only after extending the dec
 
 * How does replacing the ninth-grade scores affect the following:
     * Math and reading scores by grade
-        * Top Schools Original:
-    ![Top Schools Original](https://github.com/krockway/School_District_Analysis/blob/main/analysis/TopSchool.png)
-    * Top Schools Revised (9th Grade Thomas High sudents dropped):
-    ![Top Schools Revised](https://github.com/krockway/School_District_Analysis/blob/main/analysis/TopSchool_Revised.png)
+        * Grade Level Original:
+    ![Grade Level Original](https://github.com/krockway/School_District_Analysis/blob/main/Analysis/ByGrade.png)
+        * Grade Level Revised (9th Grade Thomas High sudents dropped):
+    ![Grade Level Revised](https://github.com/krockway/School_District_Analysis/blob/main/Analysis/ByGrade_Revised.png)
         * Because the 9th grade scores were dropped, there was a negative impact on that grade level. No other grade levels saw a change in math or reading scores.
+    
     * Scores by school spending
         * Spending Per Student Original:
     ![Spending Per Student Original](https://github.com/krockway/School_District_Analysis/blob/main/analysis/TopSchool.png)
         * Spending Per Student (9th Grade Thomas High sudents dropped):
     ![Spending Per Student Revised](https://github.com/krockway/School_District_Analysis/blob/main/analysis/TopSchool_Revised.png)
+        * Analyze
+
     * Scores by school size
         * School Size Original:
     ![School Size Original](https://github.com/krockway/School_District_Analysis/blob/main/analysis/Size.png)
-    * School Size Revised (9th Grade Thomas High sudents dropped):
+        * School Size Revised (9th Grade Thomas High sudents dropped):
     ![School Size Revised](https://github.com/krockway/School_District_Analysis/blob/main/analysis/Size_Revised.png)
+        * Analyze
+    
     * Scores by school type
         * School Types Original:
     ![School Types Original](https://github.com/krockway/School_District_Analysis/blob/main/analysis/Type.png)
-    * School Types (9th Grade Thomas High sudents dropped):
-    ![School Types Revised](https://github.com/krockway/School_District_Analysis/blob/main/analysis/Type_Revised.png)
+        * School Types (9th Grade Thomas High sudents dropped):
+![School Types Revised](https://github.com/krockway/School_District_Analysis/blob/main/analysis/Type_Revised.png)
+        * Analyze
 
 ## Summary: 
 Summarize four major changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
