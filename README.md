@@ -2,10 +2,10 @@
 Analysis of standardized tests
 
 ## Project Overview 
-Explain the purpose of this analysis.
+The purpose of this analysis is to provide high level statistics for the school board to review. They'll be able to see at a glance different slices of average math and reading scores, percentage of students passing math or reading, the overall percentage of students who pass both, as well as type of school, number of students and annual budget. The school board will be able to review these statistics at the district level, the individual school level, the grade level, the type of school level, the size level and the budget per student level. They'll also be able to see the best and worst performing schools. Combining all of this information, the school board will be able to make decisions around district spending and areas of emphasis.
 
 ## Results: 
-For all analysis, the amount of change was minimal. Only after extending the decimal point, was one able to find differences.
+For all analysis, the amount of change was minimal. Only after extending the decimal point, was one able to find differences. Keeping the desired formatting in place, one would not have detected a difference in these charts, therefore I have removed formatting in the below images to highlight the minimal differences.
 
 * How is the district summary affected?
     * District Summary Original:
@@ -57,4 +57,4 @@ For all analysis, the amount of change was minimal. Only after extending the dec
         * For the most part, the charter schools statistics were negatively impacted when the 9th grade scores from Thomas High were dropped. As seen in the images above, the average math score, percentage passing math and overall passing percentage decreased. The average reading scores and percentage passing reading both increased slightly. District schools saw no change.
 
 ## Summary: 
-Summarize four major changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
+Overall, negligible change was observed when removing the ninth grade math and reading scores from Thomas High School. They saw an overall decrease in average math score (~.06), percentage of students passing math (~.09%) and overall percentage of students passing (~.3%). Interestingly the average reading score increased by .05, but the percentage of students passing reading decreased by .3%.
